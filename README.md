@@ -27,13 +27,3 @@ This project is a **Todo List** application built with **Ruby on Rails** for the
 - **Axios** for handling HTTP requests from the React frontend to the Rails backend.
 - **Tailwind CSS** (or Bootstrap, based on your choice) for styling the application.
 
-## Prerequisites
-
-Before you start, ensure you have the following installed:
-
-- Ruby (preferably 3.x)
-- Rails (preferably 6.x or 7.x)
-- Node.js (preferably 14.x or above)
-- Yarn (for React package management)
-- PostgreSQL
-
