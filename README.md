@@ -1,4 +1,3 @@
-# Todo App - Rails + React
 
 This project is a **Todo List** application built with **Ruby on Rails** for the backend and **React** for the frontend. The purpose of this project is to practice integrating a Rails API with a React frontend.
 
